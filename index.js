@@ -21,7 +21,7 @@ class Person {
   }
   
 
-  const person1 = new Person("Dhinesh", "Kumar", 30, "male", "Fullstack Developer");
+  const person1 = new Person("Dhinesh", "Kumar", 25, "male", "Fullstack Developer");
   console.log(person1.greet()); 
   console.log(person1.introduce()); 
   
